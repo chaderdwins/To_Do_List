@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rand",
+				"randomtestadventurer"
+			],
+			[
+				"ran",
+				"randomtestcard2"
+			],
+			[
+				"ra",
+				"randomtestadventurer"
+			],
+			[
+				"random",
+				"randomtestcard1"
+			],
+			[
+				"unit",
+				"unittestresults"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"text-align",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"Font",
+				"font-family"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"change",
+				"changeColors"
+			],
+			[
+				"rest",
+				"resetButton"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"message",
+				"messageDisplay"
+			],
+			[
+				"picke",
+				"pickedColor"
+			],
+			[
+				"click",
+				"clickedColor"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"p1",
+				"p1ScoreH"
+			],
+			[
+				"p2",
+				"p2Score"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"is",
+				"isUniform"
+			],
+			[
+				"ma",
+				"magicNumber"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"magic",
+				"magicNumber"
+			],
+			[
+				"delete",
+				"deleteArray"
+			],
+			[
+				"list",
+				"listArray"
+			],
+			[
+				"item",
+				"itemDelete"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Sara/Desktop/Sara Coding/index.html",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/harcoura/dominion/randomtestadventurer.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/harcoura/dominion/randomtestcard1.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/harcoura/dominion/randomtestcard2.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/harcoura/dominion/unittestresults.out",
+		"/C/Users/Sara/Downloads/CS362-004-F2017-erdwinsc-assignment-4/projects/erdwinsc/dominion/randomtestadventurer.out",
+		"/C/Users/Sara/Downloads/CS362-004-F2017-erdwinsc-assignment-4/projects/erdwinsc/dominion/Makefile",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/harcoura/dominion/Makefile",
+		"/C/Users/Sara/Desktop/Portfolio Site/js/main.js",
+		"/C/Users/Sara/Desktop/Portfolio Site/js/modernizr.js",
+		"/C/Users/Sara/Desktop/Portfolio Site/js/bootstrap.min.js",
+		"/C/Users/Sara/Desktop/Portfolio Site/js/jquery.waypoints.min.js",
+		"/C/Users/Sara/Desktop/Portfolio Site/js/retina.min.js",
+		"/C/Users/Sara/Desktop/Portfolio Site/index.html",
+		"/C/Users/Sara/Desktop/Portfolio Site/contact.html",
+		"/C/Users/Sara/Desktop/Portfolio Site/js/jquery.contact.js",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/randomtestadventurer.c",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/dominion.c",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/randomtestcard2.c",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/randomtestcard2.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/randomtestadventurer.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/randomtestcard1.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/randomtestcard1.c",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/Makefile",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/unittestresults.out",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/unittest1.c",
+		"/C/Users/Sara/Downloads/makefil",
+		"/C/Users/Sara/Desktop/Web-Apps/echoApp/echo.html",
+		"/C/Users/Sara/Desktop/Web-Apps/echoApp/echo.css",
+		"/C/Users/Sara/Desktop/Web-Apps/echoApp/paper-full.js",
+		"/C/Users/Sara/Desktop/Web-Apps/RGB Guessing Game/colorGame.js",
+		"/C/Users/Sara/Desktop/Web-Apps/To-Do List App/assets/css/todos.css",
+		"/C/Users/Sara/Downloads/CodeAlong 4/data.js",
+		"/C/Users/Sara/Downloads/examples/Animated/Space.html",
+		"/C/Users/Sara/Desktop/Web-Apps/To-Do List App/assets/js/todos.js",
+		"/C/Users/Sara/Desktop/Web-Apps/To-Do List App/index.html",
+		"/C/Users/Sara/Desktop/Web-Apps/To-Do List App/assets/js/lib/jquery-3.2.1.min.js",
+		"/C/Users/Sara/Desktop/Web-Apps/README.md",
+		"/C/Users/Sara/Desktop/Web-Apps/jQuery Exercises/index.html",
+		"/C/Users/Sara/Downloads/jQueryExercise/exercise.js",
+		"/C/Users/Sara/Downloads/jQueryExercise/exercise.html",
+		"/C/Users/Sara/Desktop/Web-Apps/jQuery Exercises/example.js",
+		"/C/Users/Sara/Desktop/Web-Apps/jQuery Exercises/lib/jquery-3.2.1.min.js",
+		"/C/Users/Sara/Desktop/Web-Apps/ScoreKeeper/scoreKeeper.js",
+		"/C/Users/Sara/Desktop/Web-Apps/ScoreKeeper/scoreKeeper.html",
+		"/C/Users/Sara/Desktop/Web-Apps/ScoreKeeper/scoreKeeper.css",
+		"/C/Users/Sara/Desktop/Web-Apps/RGB Guessing Game/colorGame.css",
+		"/C/Users/Sara/Desktop/Web-Apps/RGB Guessing Game/index.html",
+		"/C/Users/Sara/Desktop/Web-Apps/RGB Guessing Game/js.js",
+		"/C/Users/Sara/Desktop/Web-Apps/RGB Guessing Game/css.css",
+		"/C/Users/Sara/Desktop/Web-Apps/RGB Guessing Game/css",
+		"/C/Users/Sara/Downloads/minifolio-bootstrap-responsive-resume-personal-portfolio -template/index.html",
+		"/C/Users/Sara/Desktop/ScoreKeeper/scoreKeeper.html",
+		"/C/Users/Sara/Desktop/ScoreKeeper/scoreKeeper.CSS",
+		"/C/Users/Sara/Desktop/ScoreKeeper/scoreKeeper.JS",
+		"/C/Users/Sara/Downloads/minifolio-bootstrap-responsive-resume-personal-portfolio -template/php/contact.php",
+		"/C/Users/Sara/Desktop/index.html",
+		"/C/Users/Sara/Downloads/paul-lapkin-personal-portfolio-template/index.html",
+		"/C/Users/Sara/Downloads/assets/css/main.css",
+		"/C/Users/Sara/Downloads/running/css/style.css",
+		"/C/Users/Sara/Downloads/home.html",
+		"/C/Users/Sara/Downloads/js.js",
+		"/C/Users/Sara/Downloads/ColorToggle/toggle.html",
+		"/C/Users/Sara/Downloads/ColorToggle/toggle.js",
+		"/C/Users/Sara/Downloads/selector-exercise.html",
+		"/C/Users/Sara/Desktop/New Text Document.txt",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/dominion/dominion.c",
+		"/C/Users/Sara/Downloads/bst/makefile",
+		"/C/Program Files/PuTTY/README.txt",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/projects/erdwinsc/dominion/readme",
+		"/C/Users/Sara/Documents/GitHub/CS362-004-F2017/README.md",
+		"/C/Users/Sara/Desktop/Work/plank/index.html",
+		"/C/Users/Sara/Desktop/Work/plank/index.js",
+		"/C/Users/Sara/Desktop/plank/index.html",
+		"/C/Users/Sara/Desktop/plank/index.js",
+		"/C/Users/Sara/Downloads/changelog (1).txt",
+		"/C/Users/Sara/Desktop/New Text Document (2).txt",
+		"/C/Users/Sara/Desktop/changelog.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Starbound/_UnpackedAssets/items/active/weapons/melee/abilities/spear/elementalspin/elementalspin.weaponability",
+		"/C/Users/Sara/Downloads/changelog.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Starbound/_UnpackedAssets/items/active/weapons/melee/abilities/spear/elementalspin/elementalspin.lua",
+		"/C/Program Files (x86)/Steam/steamapps/common/Starbound/_UnpackedAssets/items/active/weapons/melee/abilities/hammer/elementalaura/elementalaura.weaponability",
+		"/C/Program Files (x86)/Steam/steamapps/common/Starbound/_UnpackedAssets/items/active/weapons/melee/abilities/hammer/elementalaura/elementalaura.lua",
+		"/C/Program Files (x86)/Steam/steamapps/common/Starbound/storage/player/83a3572744becd1a588392fe0d2fcec9.player",
+		"/C/Users/Sara/Desktop/Directory Size Console Alpha 0.0.1.cs",
+		"/C/Users/Sara/Desktop/Directory Size XML.xml",
+		"/C/Users/Sara/Desktop/Directory Size WPF Alpha 0.0.1.cs",
+		"/C/Users/Sara/Downloads/recursion_example",
+		"/C/Users/Sara/Downloads/recursion_example (1)",
+		"/C/Users/Sara/Downloads/Text101/Text101.sln"
+	],
+	"find":
+	{
+		"height": 79.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"adventurer",
+			"unittest",
+			"playdom 3",
+			"3",
+			"UNITTEST",
+			"urls",
+			"animatedCircle",
+			"\t\t\t\t.",
+			"completed",
+			"#232323",
+			"easy",
+			"changecolors",
+			"document",
+			"cardEffect",
+			"\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Sara/Desktop/Sara Coding/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 79.0
+	},
+	"input":
+	{
+		"height": 82.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 148.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

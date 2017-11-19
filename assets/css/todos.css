@@ -1,0 +1,87 @@
+body	{
+	font-family: Roboto; 
+	background: #076585;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+ h1	{
+ 	background-color: #2980b9;
+ 	font-family: 'Roboto';
+ 	color:	white;
+ 	margin: 0;
+ 	padding: 1%;
+ 	font-weight: normal;
+ }
+
+span	{
+	height: 40px;
+	background-color: red;
+	margin-right: 20px;
+	text-align: center;
+	color: white;
+	width: 0;
+	display: inline-block;
+	transition: 0.2s linear; 
+	opacity: 0;
+}
+
+ ul	{
+ 	list-style: none;
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+li 	{
+	background: white;
+	height: 40px;
+	line-height: 40px;
+}
+
+li:hover span {
+	width: 40px;
+	opacity: 1;
+}
+
+li:nth-child(2n){
+	background:	lightgray;
+
+}
+
+
+input	{
+	font-size: 18px;
+	background-color: lightgray;
+	width: 100%;
+	padding: 13px 13px 13px 20px;
+	box-sizing: border-box;
+	color:	#2980b9;
+}
+
+input:focus	{
+	background: white;
+	border: 3px solid;
+	outline: none;
+}
+.completed {
+	color: gray;
+	text-decoration: line-through;
+}
+
+.fa-plus-square-o {
+	float: right;
+	line-height: 100%;
+	padding: 1%;
+}
+
+.fa-trash	{
+	padding: 1%;
+}
+
+#container {
+	box-shadow: 0 0 6px rgba(0,0,0, 0.2);
+	width: 360px;
+	margin: 100px auto;
+	background-color: lightgray;
+}
